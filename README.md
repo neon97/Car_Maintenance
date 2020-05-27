@@ -7,7 +7,7 @@ Adopt Animal is App UI that can help to adopt animlas from app working both on A
 Which can help people to look for animals adoption provided by the nearby adoption centres...
 
 <h3>Check out for full Flutter UI design video on <a class="github-button" href="https://www.youtube.com/channel/UCRhmjCnvOgULTzEFe-Jpfdw">Youtube</a></h3> 
-<a href="https://youtu.be/kd1CLYLymbI">
+<a href="https://youtu.be/ZYmQFcFKj88">
 <img src="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/thumbnail.png?raw=true"  width="500"
      height="300">
 </img>
