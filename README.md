@@ -24,13 +24,13 @@ UI designed by <a class="github-button" href="https://www.instagram.com/michaelf
 Some Screenshots:
 
 <a href="https://youtu.be/kd1CLYLymbI">
-<img src="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/2page.png?raw=true"  width="300"
+<img src="https://github.com/neon97/Car_Maintenance/blob/master/assets/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-05-25%20at%2021.19.09.png?raw=true"  width="150"
      height="300">
 </img>
 </a>
 
 <a href="https://youtu.be/kd1CLYLymbI">
-<img src="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/1page.png?raw=true"  width="300"
+<img src="https://github.com/neon97/Car_Maintenance/blob/master/assets/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-05-25%20at%2021.18.55.png?raw=true"  width="150"
      height="300">
 </img>
 </a>
