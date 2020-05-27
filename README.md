@@ -14,8 +14,8 @@ Car Management is App UI that can help owners to look for their car tweaks  and 
 
 UI designed by <a class="github-button" href="https://www.instagram.com/michaelf.design/">Michaelf.design</a>
 
-<a href="https://www.instagram.com/p/B_Ky8yBAb1b/">
-<img src="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/design.png?raw=true"  width="400"
+<a href="https://www.instagram.com/p/B_prh7JAGiw/">
+<img src="https://github.com/neon97/Car_Maintenance/blob/master/assets/car_maintanence.jpg?raw=true"  width="400"
      height="400">
 </img>
 </a>
