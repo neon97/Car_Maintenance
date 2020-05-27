@@ -1,15 +1,13 @@
-# Adopt Animals UI Design on Flutter
+# Car Management || Car Maintanence || Car Products
 
-Adopt Animal Design in Flutter in such a way that its reponsive for every mobile app running on Android / iOS 
+Car Management Design in Flutter in such a way that its reponsive for every mobile app running on Android / iOS 
 As flutter is a framework that can work on Android / iOS / Web / Windows / MacOS etc...  currently on Fuchsia too...
 
-Adopt Animal is App UI that can help to adopt animlas from app working both on Android / iOS..
-Which can help people to look for animals adoption provided by the nearby adoption centres...
+Car Management is App UI that can help owners to look for their car tweaks  and can easily troubleshoot and get some new products for their car from app working both on Android / iOS..
 
 <h3>Check out for full Flutter UI design video on <a class="github-button" href="https://www.youtube.com/channel/UCRhmjCnvOgULTzEFe-Jpfdw">Youtube</a></h3> 
 <a href="https://youtu.be/ZYmQFcFKj88">
-<img src="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/thumbnail.png?raw=true"  width="500"
-     height="300">
+<img src="https://github.com/neon97/Car_Maintenance/blob/master/assets/Screenshot%202020-05-26%20at%208.51.37%20PM.png?raw=true">
 </img>
 </a>
 <br>
